@@ -2,4 +2,6 @@
 
 ### Quickstart
 - Install [node.js](http://nodejs.org/)
-- node app.js
+- Run the following command:
+
+    node app.js
